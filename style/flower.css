@@ -183,3 +183,40 @@ header{
    margin-top: 48px;
 }
 /* Instagram section style start */
+
+/* Rectange section style start  */
+.rectangle{
+   margin: 0 240px;
+   margin-top: 128px;
+}
+.rectangle-container{
+   width: 1440px;
+   height: 450px;
+   background-image: url('../Flower Asset/Rectangle 9.png');
+}
+.rec-title{
+   color: #272727;
+   text-align: center;
+   font-size: 40px;
+   font-weight: 800;
+   padding-top: 172px;
+}
+.rec-text{
+   color: rgba(39, 39, 39, 0.60);
+   text-align: center;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 30px;
+   margin-bottom: 48px;
+}
+.rec-input{
+   display: flex;
+   justify-content: center;
+}
+.rect-inputfield{
+   width: 700px;
+   padding: 22px;
+   margin-right: 18px;
+   border: none;
+}
+/* Rectange section style end  */
