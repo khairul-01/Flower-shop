@@ -48,3 +48,28 @@ header{
    background-color: #E55473;
    padding: 20px 43px;
 }
+/* Header style end  */
+
+/* Feature style start  */
+.feature{
+   margin-top: 175px;
+}
+.feature-title{
+   color: #272727;
+   text-align: center;
+   font-size: 40px;
+   font-weight: 800;
+}
+.feature-descr{
+   color: rgba(39, 39, 39, 0.60);
+   text-align: center;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 30px;
+   max-width: 600px;
+   margin: 0 auto;
+   margin-top: 24px;
+}
+/* Feature style end  */
+/* Flower section style start  */
+/* Flower section style end  */
