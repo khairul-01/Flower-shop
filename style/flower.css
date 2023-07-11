@@ -72,4 +72,61 @@ header{
 }
 /* Feature style end  */
 /* Flower section style start  */
+.flower{
+   margin: 0px 240px;
+   background-color: #FFF;
+   margin-top: 48px;
+}
+.flower-row1{
+   display: flex;
+   gap: 24px
+}
+.flower-row1-img{
+   width: 464px;
+   height: 538px;
+   border-radius: 300px 300px 0px 0px;
+   background-color: rgba(167, 33, 98, 0.15);
+   position: relative;
+}
+.png6{
+   position:absolute;
+   bottom: 0;
+   left: 72px;
+   width: 310px;
+   height: 428px;
+   margin: 110px, 78px, 0px;
+}
+.flower-container{
+   text-align: center;
+}
+.flower-title{
+   color: #272727;
+   text-align: center;
+   font-size: 24px;
+   font-weight: 700;
+   line-height: 35px;
+   text-decoration-line: underline;
+   margin-top: 32px;
+}
+
+.flower-support{
+   display: flex;
+   justify-content: space-evenly;
+   margin-top: 128px;
+}
+.support-container{
+   text-align: center;
+}
+.support-name{
+   color: rgba(39, 39, 39, 0.80);
+   text-align: center;
+   font-size: 22px;
+   font-weight: 600;
+   line-height: 35px;
+   margin-top: 20px;
+}
+
 /* Flower section style end  */
+
+/* Flower offer section start  */
+/* Flower offer section end  */
